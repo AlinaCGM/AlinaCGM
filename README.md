@@ -1,7 +1,7 @@
 Hello,
-I am Alina :wave:
-Front-end developer based in Stockholm :sparkles:
-https://www.samoteev.dev/:- 
+I am Alina :wave: <br />
+Front-end developer based in Stockholm :sparkles: <br />
+https://www.samoteev.dev/  <br />
 
 
 <img align="center" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlinaCGM&theme=shades-of-purple" /> 
