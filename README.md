@@ -1,6 +1,7 @@
 Hello,
-I am Alina, front-end developer based in Stockholm.
-https://www.samoteev.dev/
+I am Alina :smirk: :- 
+Front-end developer based in Stockholm.:- 
+https://www.samoteev.dev/:- 
 
 
 <img align="center" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlinaCGM&theme=shades-of-purple" /> 
