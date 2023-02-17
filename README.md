@@ -1,6 +1,6 @@
 Hello,
-I am Alina :smirk: :- 
-Front-end developer based in Stockholm.:- 
+I am Alina :wave:
+Front-end developer based in Stockholm :sparkles:
 https://www.samoteev.dev/:- 
 
 
