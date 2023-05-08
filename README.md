@@ -1,6 +1,6 @@
 Hello,
 I am Alina :wave: <br />
-Front-end developer based in Stockholm :sparkles: <br />
+Fullstack developer based in Stockholm :sparkles: <br />
 https://www.samoteev.dev/  <br />
 
 
