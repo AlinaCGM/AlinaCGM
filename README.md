@@ -2,7 +2,9 @@ Hello,
 I am Alina :wave: <br />
 Fullstack developer based in Stockholm :sparkles: <br />
 https://www.samoteev.dev/  <br />
-https://shoutitout.se/
+- 🔭 I’m currently working on [ShoutItOut](https://shoutitout.se/)
+
+- ⚡ Fun fact **I have a black cat named Orange.**
 
 
 <img align="center" width="450" src="https://github-readme-stats.vercel.app/api/?username=AlinaCGM&theme=shades-of-purple" />
@@ -10,9 +12,7 @@ https://shoutitout.se/
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alinacgm&label=Profile%20views&color=0e75b6&style=flat" alt="alinacgm" /> </p>
 
-- 🔭 I’m currently working on [ShoutItOut](https://shoutitout.se/)
 
-- ⚡ Fun fact **I have a black cat named Orange.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
